@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'api',
+    'error_app_123', # <-- осьо
 ]
 
 MIDDLEWARE = [
